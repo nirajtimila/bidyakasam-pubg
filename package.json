@@ -1,0 +1,19 @@
+{
+  "name": "bidyakasam",
+  "version": "1.0.0",
+  "description": "pubg clan",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirajtimila/bidyakasam-pubg.git"
+  },
+  "author": "Niraj Timila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirajtimila/bidyakasam-pubg/issues"
+  },
+  "homepage": "https://github.com/nirajtimila/bidyakasam-pubg#readme"
+}
