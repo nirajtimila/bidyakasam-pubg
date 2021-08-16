@@ -12,6 +12,15 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  background-color: black;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-image: url('img/prakriti.jpg');
+  transition: 0.4s;
 }
 
 .container {
@@ -61,4 +70,5 @@ body {
   .panel:nth-of-type(5) {
    display:none; 
   } */
+
 }
